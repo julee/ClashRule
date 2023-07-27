@@ -1,0 +1,4 @@
+# NAME: CustomDirect
+payload:
+  - DOMAIN-SUFFIX,julyan.tech
+  - DOMAIN-SUFFIX,footing.dev

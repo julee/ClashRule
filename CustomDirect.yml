@@ -2,3 +2,4 @@
 payload:
   - DOMAIN-SUFFIX,julyan.tech
   - DOMAIN-SUFFIX,footing.dev
+  - IP-CIDR,149.129.102.125/32

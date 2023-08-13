@@ -1,7 +1,7 @@
 payload:
   - IP-CIDR,10.0.158.0/24,no-resolve
   - IP-CIDR,10.0.170.0/24,no-resolve
+  - IP-CIDR,10.0.171.0/24,no-resolve
   - DOMAIN,gitlab.insta360.com
   - DOMAIN-SUFFIX,gitlab.insta360.com
-  - IP-CIDR,10.0.171.0/24,no-resolve
 
